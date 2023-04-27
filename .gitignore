@@ -1,0 +1,6 @@
+tmp/
+**/.DS_Store
+.vscode
+db-data/
+myapp
+cov.out
